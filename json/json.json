@@ -1,0 +1,494 @@
+{
+    "Productos Industriales": [
+        {
+            "imagenes": [
+                {
+                    "img": "img/egoa2.jpg"
+                },
+                {
+                    "img": "img/egoa1.jpg"
+                },
+                {
+                    "img": "img/egoa3.jpg"
+                },
+                {
+                    "img": "img/egoa4.jpg"
+                },
+                {
+                    "img": "img/egoa5.jpg"
+                }
+            ],
+            "nombre":"Silla Egoa (STUA)",
+            "descripcion":"Con más de 20 años en el mercado, la silla Egoa es de una comodidad extraordinaria, pues el respaldo se adapta a la posición de la espalda, acompañando nuestro movimiento. Se logra así una ergonomía dinámica. Pero para conocerla completamente es necesario sentarse en ella. La estructura es de acero cromado. El asiento y respaldo pueden ir tapizados en tela o piel. Las versiones en diferentes maderas naturales pueden ser de fresno, roble o nogal, o lacadas en blanco o negro. La madera es de origen francés de bosques con gestión sostenible. Existe la versión giratoria, con ruedas y pistón para regular la altura.",
+            "link":"http://www.stua.com/es/design/egoa/"
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/no.png"
+                }
+            ],
+            "nombre":"Silla DUNIA (Audrew World)",
+            "descripcion":""
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/romana1.jpg"
+                },
+                {
+                    "img": "img/romana2.jpg"
+                },
+                {
+                    "img": "img/romana3.jpg"    
+                },
+                {
+                    "img": "img/romana4.jpg"    
+                },
+                {
+                    "img": "img/romana5.jpg"    
+                }
+                
+            ],
+            "nombre":"Lámpara ROMANA (Mobles 114)",
+            "descripcion":"Este diseño recurre a la idea del flexo clásico adaptándola a la estética minimalista de las modernas oficinas de finales de los ochenta. El brazo bascula sobre el fuste, permitiendo ajustar la altura del foco manualmente desde una pieza de fundición circular situada en un extremo. La base también es una pesada pieza redonda de fundición sobre la que gira la lámpara. El interruptor se encuentra sobre el reflector. Piezas de hierro, acero y aluminio en acabado gris anodizado.",
+            "link":"http://www.passeu-passeu.com/Nuevo/Lampara-Romana-M114"
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/camion_rosroca1.jpg"
+                },
+                {
+                    "img": "img/camion_rosroca2.jpg"
+                }
+            ],
+            "nombre":"Camión RC CROSS (RosRoca)",
+            "descripcion":"Elevador polivalente ROS ROCA, apto para cubos de 80 a 390 litros, contenedores de 500 a 1200 litros tapa plana. No incluye brazos OSHNER para contenedores de 800 litros.",
+            "link":"http://envirorent.info/es/pr/alquiler-vehiculos-medioambientales/recolector-carga-trasera-cross-16-ROS%20ROCA%20CROSS-6"
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/contenedor_rosroca1.jpg"
+                },
+                {
+                    "img": "img/contenedor_rosroca2.jpg"
+                }
+            ],
+            "nombre":"Contenedor Mariposa (Ros Roca)",
+            "descripcion":"Amplia gama de robustos contenedores diseñados específicamente para trabajar en perfecta armonía con nuestras soluciones de vehículos de recogida de carga lateral.",
+            "link":"https://www.rosroca.es/es/productos/contenedores/"
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/wabi1.jpg"
+                },
+                {
+                    "img": "img/wabi2.jpg"
+                }
+            ],
+            "nombre":"Bici Wabi (Camper)",
+            "descripcion":"Contrachapado antihumedad de madera de haya y acero inoxidable"
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/morabike1.jpg"
+                },
+                {
+                    "img": "img/morabike2.jpg"
+                },
+                {
+                    "img": "img/morabike3.jpg"
+                },
+                {
+                    "img": "img/morabike4.jpg"
+                },
+                {
+                    "img": "img/morabike5.jpg"
+                },
+                {
+                    "img": "img/morabike6.jpg"
+                },
+                {
+                    "img": "img/morabike7.jpg"
+                },
+                {
+                    "img": "img/morabike8.jpg"
+                }
+            ],
+            "nombre":"Bici Mora Bike (Mora Bike)",
+            "descripcion":"La primera bicicleta plegable diseñada y fabricada en España que llega al mercado barcelonés. La empresa pretende que su producto compita en precio con las plegables de gama media y alta más populares. Precio, calidad y ecología son el activo con los que molabike estrena su andadura como vehículo urbano para contribuir a reducir las emisiones con efecto invernadero y mejorar la calidad del aire de las ciudades.",
+            "link":[
+                {
+                    "link": "http://renovablessinlimites.blogspot.com/2009/12/un-cambio-de-mentalidad.html"
+                },
+                {
+                    "link": "http://www.terra.org/categorias/comunidad-ecotransporte/morabike-la-plegable-mas-rapida-y-ecologica"
+                }
+            ]
+        }
+    ],
+    "Ingeniería, cine y publicidad": [
+        {
+            "imagenes": [
+                {
+                    "img": "img/damm1.jpg"
+                }
+            ],
+            "nombre":"Estrella Damm",
+            "descripcion":"Spot EstrellaDamm en colaboración con Santi Colomer, ingeniero electrónico",
+            "link":[
+                {
+                    "link": "https://youtu.be/dzxPxSWtLy4"
+                },
+                {
+                    "link": "https://www.estrelladamm.com/"
+                },
+                {
+                    "link": "img/damm2.mp4"
+                }
+            ]
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/monturiol1.jpg"
+                },
+                {
+                    "img": "img/monturiol2.jpg"
+                },
+                {
+                    "img": "img/monturiol3.jpg"    
+                }
+            ],
+            "nombre":"Submarinos",
+            "descripcion":"Los submarinos colaboracion con Manu Reventós, ingeniero. Esta película está basada en la historia real del abogado e ingeniero catalán Narcís Monturiol i Estarriol (Figueres 1819 - Barcelona 1885) que inventó el submarino. Montaron dos. Uno de 12 metros y otro de 17. para el pequeño desarrollaron un sistema de inmersión, para el rodaje",
+            "link":[
+                {
+                    "link": "https://www.filmaffinity.com/en/filmimages.php?movie_id=787175"
+                },
+                {
+                    "link": "https://www.filmaffinity.com/en/film787175.html"
+                }
+            ]            
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/adriano1.jpg"
+                },
+                {
+                    "img": "img/adriano2.jpg"
+                },
+                {
+                    "img": "img/adriano3.jpg"
+                },
+                {
+                    "img": "img/adriano4.jpg"
+                },
+                {
+                    "img": "img/adriano5.jpg"
+                },
+                {
+                    "img": "img/adriano6.jpg"
+                },
+                {
+                    "img": "img/adriano7.jpg"
+                },
+                {
+                    "img": "img/adriano8.jpg"
+                },
+                {
+                    "img": "img/adriano9.jpg"
+                },
+                {
+                    "img": "img/adriano10.jpg"
+                },
+                {
+                    "img": "img/adriano11.jpg"
+                },
+                {
+                    "img": "img/adriano12.jpg"
+                },
+                {
+                    "img": "img/adriano13.jpg"
+                },
+                {
+                    "img": "img/adriano14.jpg"
+                },
+                {
+                    "img": "img/adriano15.jpg"
+                },
+                {
+                    "img": "img/adriano16.jpg"
+                },
+                {
+                    "img": "img/adriano17.jpg"
+                },
+                {
+                    "img": "img/adriano18.jpg"
+                },
+                {
+                    "img": "img/adriano19.jpg"
+                }
+            ],
+            "nombre":"Port Adriano",
+            "descripcion":"Spot publicitario para Conservas Ortiz, presentado en el puerto Adriano, Mallorca.",
+            "link":[
+                {
+                    "link": "https://www.conservasortiz.com/"
+                },
+                {
+                    "link": "img/ortiz2.mp4"
+                }
+            ]
+        }
+    ],
+    "Productos propios": [
+        {
+            "imagenes": [
+                {
+                    "img": "img/rocking1.jpg"
+                },
+                {
+                    "img": "img/rocking2.jpg"
+                },
+                {
+                    "img": "img/rocking3.jpg"
+                }
+            ],
+            "nombre":"Rocking Chair",
+            "descripcion":""
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/no.png"
+                }
+            ],
+            "nombre":"Bicis IHPVA",
+            "descripcion":""
+        },
+        {
+            "imagenes": [
+                
+                {
+                    "img": "img/segway4.jpg"
+                },
+                {
+                    "img": "img/segway3.jpg"
+                }
+            ],
+            "nombre":"Segway WheelChair",
+            "descripcion":"",
+            "link":[
+                {
+                    "link": "img/segway2.mp4"
+                }
+            ]
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/fenix1.jpg"
+                },
+                {
+                    "img": "img/fenix2.jpg"
+                },
+                {
+                    "img": "img/fenix3.jpg"    
+                },
+                {
+                    "img": "img/fenix4.jpg"
+                },
+                {
+                    "img": "img/fenix5.jpg"    
+                },
+                {
+                    "img": "img/fenix6.jpg"
+                },
+                {
+                    "img": "img/fenix7.jpg"    
+                },
+                {
+                    "img": "img/fenix8.jpg"
+                },
+                {
+                    "img": "img/fenix9.jpg"    
+                },
+                {
+                    "img": "img/fenix10.jpg"
+                }
+                
+            ],
+            "nombre":"Coche Eléctrico Fénix ConceptCar",
+            "descripcion":"",
+            "link":[
+                {
+                    "link": "img/fenix11.mp4"
+                }
+            ]
+        }
+    ],
+    "Otros": [
+        {
+            "imagenes": [
+                {
+                    "img": "img/adaptaciones1.jpg"
+                },
+                {
+                    "img": "img/adaptaciones2.jpg"
+                },
+                {
+                    "img": "img/adaptaciones3.jpg"    
+                },
+                {
+                    "img": "img/adaptaciones4.jpg"    
+                }
+            ],
+            "nombre":"Adaptaciones personalizadas",
+            "descripcion":"",
+            "link":[
+                {
+                    "link": "img/adaptaciones5.mp4"
+                }
+            ]
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/lamp1.jpg"
+                },
+                {
+                    "img": "img/lamp2.jpg"
+                }
+            ],
+            "nombre":"Lámpara de luz",
+            "descripcion":""
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/metro1.jpg"
+                },
+                {
+                    "img": "img/metro2.gif"
+                },
+                {
+                    "img": "img/metro3.jpg"    
+                },
+                {
+                    "img": "img/metro4.jpg"
+                },
+                {
+                    "img": "img/metro5.gif"
+                }
+            ],
+            "nombre":"Proyecto del Metro",
+            "descripcion":""
+        },
+        {
+            "imagenes": [
+                {
+                    "img": "img/servei1.jpg"
+                },
+                {
+                    "img": "img/servei2.jpg"
+                },
+                {
+                    "img": "img/servei3.jpg"    
+                },
+                {
+                    "img": "img/servei4.jpg"    
+                },
+                {
+                    "img": "img/servei5.jpg"    
+                },
+                {
+                    "img": "img/servei6.jpg"    
+                },
+                {
+                    "img": "img/servei7.jpg"    
+                },
+                {
+                    "img": "img/servei8.jpg"    
+                }
+            ],
+            "nombre":"Proyecto ServeiEstacio",
+            "descripcion":""
+        }
+    ],
+    "Proyecto Ruanda": [
+        {
+            "imagenes": [
+                {
+                    "img": "img/ruanda1.jpg"
+                },
+                {
+                    "img": "img/ruanda3.jpg"
+                },
+                {
+                    "img": "img/ruanda4.jpg"
+                },
+                {
+                    "img": "img/ruanda5.jpg"
+                },
+                {
+                    "img": "img/ruanda6.jpg"
+                },
+                {
+                    "img": "img/ruanda7.jpg"
+                },
+                {
+                    "img": "img/ruanda8.jpg"
+                },
+                {
+                    "img": "img/ruanda9.jpg"
+                },
+                {
+                    "img": "img/ruanda10.jpg"
+                },
+                {
+                    "img": "img/ruanda11.jpg"
+                },
+                {
+                    "img": "img/ruanda12.jpg"
+                },
+                {
+                    "img": "img/ruanda13.jpg"
+                },
+                {
+                    "img": "img/ruanda14.jpg"
+                },
+                {
+                    "img": "img/ruanda15.jpg"
+                },
+                {
+                    "img": "img/ruanda16.jpg"
+                },
+                {
+                    "img": "img/ruanda17.jpg"
+                }
+            ],
+            "nombre":"Sillas Kigali (RUANDA)",
+            "descripcion":"Primer premio Eco Diseño 2015, Barcelona.",
+            "link":[
+                {
+                    "link": "img/ruanda2.mp4"
+                },
+                {
+                    "link": "https://www.ondacero.es/programas/un-alto-en-camino/audios-podcast/clara-romani-y-josep-mora-son-los-creadores-del-kigali-chair-project-sillas-de-ruedas-en-ruanda_2016072457951eac6584a8b7b42f79b1.html"
+                },
+                {
+                    "link": "https://www.elconfidencial.com/tecnologia/2016-07-03/sillas-de-ruedas-recicladas-ruanda-catalanes-emprendedores-ecologia-ecologico_1227076/"
+                },
+                {
+                    "link": "https://www.efeverde.com/noticias/sillas-ruedas-ruanda-kigali-project/"    
+                }
+            ]
+        }
+    ]
+}
